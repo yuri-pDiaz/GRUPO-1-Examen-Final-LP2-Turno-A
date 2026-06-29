@@ -2,7 +2,7 @@
 Sistema de Detección de Fraude Digital Mediante Anuncios por Segmentación de Precios  
 | Integrante | Nombre de Usuario | Código de Alumno |
 |-----------|-----------|-----------|
-|   |   |   |
+| Chavez Cuzcano, Victor Javier |jchest771-stack   | 20231485  |
 |   |   |   |
 |   |   |   |
 | Paucar Díaz, Yuriko Odalis | yuri-pDíaz | 20240726 |
