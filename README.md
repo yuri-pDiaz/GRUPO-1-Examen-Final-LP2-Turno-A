@@ -3,6 +3,6 @@ Sistema de Detección de Fraude Digital Mediante Anuncios por Segmentación de P
 | Integrante | Nombre de Usuario | Código de Alumno |
 |-----------|-----------|-----------|
 | Chavez Cuzcano, Victor Javier |jchest771-stack   | 20231485  |
-|   |   |   |
+| Aguilar  Contreras , Jorge Luis |  LuisAguilar2704 |  20230377 |
 |   |   |   |
 | Paucar Díaz, Yuriko Odalis | yuri-pDíaz | 20240726 |
